@@ -1,1 +1,3 @@
-# Machine_Learning_Stanford_Coursera_Specialization
+# Machine Learning Stanford Coursera Specialization
+
+This repository contains my solutions for The Machine Learning Specialization offered by Stafonrd University and DeepLearning.ai On Coursera platform.
